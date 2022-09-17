@@ -1,4 +1,5 @@
 # Clone Google HOMEPAGE
+![preview](./preview.png)
 
 >Projeto de um vídeo do youtube.
 
@@ -12,6 +13,8 @@ Projeto construído de um vídeo da Rocketseat:
 
 - HTML
 - CSS
+- Git
+- GitHub
 
 ##Contato
 
