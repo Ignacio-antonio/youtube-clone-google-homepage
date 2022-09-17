@@ -1,5 +1,5 @@
 # Clone Google HOMEPAGE
-![preview](./preview.png)
+![preview](./.github/preview.png)
 
 >Projeto de um vídeo do youtube.
 
