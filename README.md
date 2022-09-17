@@ -1,4 +1,4 @@
-# Clone Google HOMEPAGE
+# UI Clone Google HOMEPAGE
 ![preview](./.github/preview.png)
 
 >Projeto de um vídeo do youtube.
@@ -9,13 +9,13 @@ Projeto construído de um vídeo da Rocketseat:
 [Clique aqui para acessar o projeto](https://sharted53.github.io/youtube-clone-google-homepage/)
 
 
-##Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - Git
 - GitHub
 
-##Contato
+## Contato
 
 yignaciosd@gmail.com
